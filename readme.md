@@ -18,7 +18,7 @@ A cada mês, uma pessoa envolvida com atividades relacionadas à ciência é con
 
 | Edição    | Data   |          Tema            |     Palestrante   | Local                  | Descrição |
 |-----------|--------|--------------------------|-------------------|------------------------|-----------|
-| Janeiro   | 29/01  |                          |                   |                        |           |
+| Janeiro   | 29/01  | [Espalhamento Raman – aplicações e desenvolvimento dessa área de pesquisa](banner_janeiro.jpg) | Joel Félix Diniz | Recoleta Grill - Shopping da Ilha | O SciencePub retorna para sua primeira edição em 2018. Nosso convidado de janeiro é  Joel Félix Diniz que irá falar sobre Espalhamento Raman: aplicações e desenvolvimento dessa área de pesquisa. Joel Félix Diniz é graduado em Física pela Universidade Federal Do Maranhão onde atualmente cursa mestrado em Física e participa do Laboratório de Espectroscopia Vibracional e Impedância (LEVI).  Envolveu-se com o tema da área experimental durante dois anos de sua graduação e continuou se especializando em Espalhamento Raman. Participe conosco ! |
 | Fevereiro | 24/02  |                          |                   |                        |           |
 | Março     | 24/03  |                          |                   |                        |           |
 | Abril     | 21/04  |                          |                   |                        |           |
