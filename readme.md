@@ -26,12 +26,12 @@ A cada mês, uma pessoa envolvida com atividades relacionadas à ciência é con
 
 *O SciencePub retorna para sua primeira edição em 2018. Nosso convidado de janeiro é  Joel Félix Diniz que irá falar sobre Espalhamento Raman: aplicações e desenvolvimento dessa área de pesquisa. Joel Félix Diniz é graduado em Física pela Universidade Federal Do Maranhão onde atualmente cursa mestrado em Física e participa do Laboratório de Espectroscopia Vibracional e Impedância (LEVI).  Envolveu-se com o tema da área experimental durante dois anos de sua graduação e continuou se especializando em Espalhamento Raman. Participe conosco !*
 
-## [Fevereiro](banners/banner_fevereiro.jpg)
+## [Fevereiro](banners/banner_fevereiro.png)
 
     Data: 24/02
     Local: Recoleta Grill - Shopping da Ilha
     Tema: Cromatografia Líquida
-    Palestrante: Joel Félix Diniz
+    Palestrante: Caio Vinicius Caetano
 
 
 *Caio Vinicius Caetano Ribeiro da Silva |Recoleta Grill - Shopping da Ilha| O SciencePub de fevereiro se volta para a Química. Nesta edição o nosso convidado, Caio Vinicius, irá nos apresentar ao tema da Cromatografia Líquida falando sobre pesquisas na área e aplicações. Caio Vinicius Caetano Ribeiro da Silva é graduado em Química pela Universidade Federal do Maranhão. Atualmente é mestrando em Química pela mesma instituição onde continua a desenvolver pesquisas. Participe conosco !!*
@@ -91,14 +91,14 @@ A cada mês, uma pessoa envolvida com atividades relacionadas à ciência é con
 #### Data: 14/07  
 #### Local: Cidade Velha Pub
 
-#### [1ª Palestra](banners/banner_julho1.jpg) 
+#### [1ª Palestra](banners/banner_julho1.png) 
 
     Tema: Nanopartículas magnéticas aplicadas em Hipertermia
     Palestrante: Thaynara Lima
 
 *Olá amigos da ciência ! Tudo bem ? O SciencePub de Julho já está marcado ! Este mês recebemos Thaynara Lima para falar sobre nanociência! O tema é nanopartículas magnéticas e suas diversas aplicações que passam por alimentos, tecnologia da informação e medicina - incluindo tratamento contra cancêr. Thaynara Lima é estudante de graduação em Física pela Universidade Federal do Maranhão, onde desenvolve pesquisas sob iniciação científica relacionadas à matéria condensada. Chega junto ! O SciencePub ocorrerá no próximo dia 14, lá no Cidade Velha Pub. Te espero por lá !*
 
-#### [2ª Palestra](banners/banner_julho1.jpg) 
+#### [2ª Palestra](banners/banner_julho2.png) 
 
     Tema: Introdução à Robótica
     Palestrante: André Felipe da Silva
