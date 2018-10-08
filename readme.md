@@ -105,56 +105,51 @@ A cada mês, uma pessoa envolvida com atividades relacionadas à ciência é con
 
 *No SciencePub de Julho também vai rolar um papo sobre robótica com André Felipe da Silva. André vai apresentar uma introdução bem humorada ao assunto, falando também sobre projetos robóticos desenvolvidos por alunos da Uema. André Felipe possui graduação e mestrado na Ciência da Computação - ambas pela Universidade Federal do Maranhão. Atualmente é docente do curso de Engenharia de Computação da Universidade Estadual do Maranhão, onde ministra disciplinas relacionadas à robótica. Mas calma, não é a Copa do Mundo de robôs, embora já existam robôs jogando futebol. O nosso encontro é no dia sábado, dia 14, no Cidade Velha Pub - centro histórico de São Luís.*
 
-
-# Edicões Futuras
-
 ## Agosto
 
-#### Data: 18/08 (previsto)  
+#### Data: 18/08  
 #### Local: Cidade Velha Pub
 
+#### [1ª Palestra](banners/banner_agosto1.jpg) 
 
-#### 1ª Palestra 
+    Tema: Aerodinâmica e aplicações
+    Palestrante: Anaximandro Souza
 
-    Tema: A definir
-    Palestrante: A definir
+#### [2ª Palestra](banners/banner_agosto2.jpg) 
 
-#### 2ª Palestra 
+    Tema: Mulheres na ciência
+    Palestrante: Salete Farias
 
-    Tema: A definir
-    Palestrante: A definir
+*O SciencePub  de Agosto volta com dose dupla de ciência para você ! Anax Souza traz uma palestra sobre Aerodinâmica e suas vastas aplicações que se estendem desde os automóveis que você dirige aos projetos de aviões e foguetes. Também recebemos Salete Farias para um bate papo sobre a participação das mulheres na ciência.*
 
-## Setembro
+## [Setembro](banners/banner_setembro.jpg)
 
-#### Data: 15/09 (previsto)  
-#### Local: Cidade Velha Pub
+    Data: 15/09
+    Local: Cidade Velha Pub
+    Tema: Poder público, academia e sociedade
+    Palestrante: Heric Santos Hossoe
 
 
-#### 1ª Palestra 
-
-    Tema: A definir
-    Palestrante: A definir
-
-#### 2ª Palestra 
-
-    Tema: A definir
-    Palestrante: A definir
+*Este mês a edição do SciencePub é temática e traz o professor Heric Hossoe para um batepapo sobre a relação entre políticas públicas e a academia e os seus reflexos para a sociedade. Com a chegada das eleições é hora de saber como as políticas de governo afetam o desenvolvimento científico e os impactos que isso gera na nossa vida. Heric Hossoe é graduado em Ciências Econômicas e possui mestrado em Políticas Públicas, ambos pela Universidade Federal do Maranhão, onde é doutorando no mesmo tema. Heric Hossoe também é docente do Departamento de Economia do Centro de Ciências Sociais na UFMA e exerce o cargo de vice-presidente do Conselho Regional de Economia do Estado do Maranhão (CORECON)*
 
 ## Outubro
 
-#### Data: 13/10 (previsto)  
+#### Data: 18/08  
 #### Local: Cidade Velha Pub
 
+#### [1ª Palestra](banners/banner_outubro1.png) 
 
-#### 1ª Palestra 
+    Tema: Por dentro do espaço: Geoinformação
+    Palestrante: David Silva
 
-    Tema: A definir
-    Palestrante: A definir
+#### [2ª Palestra](banners/banner_outubro2.jpg) 
 
-#### 2ª Palestra 
+    Tema: Astronomia: do micro ao macro Universo
+    Palestrante: Wendell Monteiro
 
-    Tema: A definir
-    Palestrante: A definir
+*Encham suas canecas e se preparem para a edição de outubro do SciencePub. Neste mês recebemos David Silva para um batepapo sobre Geoinformática e diversas aplicações da área em nosso dia a dia. Wendell Monteiro completa seu happy hour científico com uma palestra superdivertida sobre astronomia. Astronomia, geografia e muita cerveja te esperam no Cidade Velha.*
+
+# Edicões Futuras
 
 ## Novembro
 
